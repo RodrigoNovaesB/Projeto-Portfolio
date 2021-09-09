@@ -50,7 +50,6 @@ a:hover{
 }
 
 .card{
-    position: relative;
     display: inline-block;
     background-color: #262626;
     padding: 32px 59px 5px 28px;
