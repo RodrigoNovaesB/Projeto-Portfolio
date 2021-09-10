@@ -49,26 +49,6 @@ a:hover{
     transform:scale(1.08);
 }
 
-.card{
-    display: inline-block;
-    background-color: #262626;
-    padding: 32px 59px 5px 28px;
-    box-shadow: 5px 5px 0 #000;
-}
-
-.name{
-    font-family: "Fira Code", sans-serif;
-    font-size: 60px;
-    color: #7AA61B;
-    text-shadow: 4px 4px 0 #000;
-}
-.function{
-    font-family: "Fira Code", sans-serif;
-    font-size: 50px;
-    color: #FFF;
-    text-shadow: 4px 4px 0 #000;
-}
-
 .button{
     display: inline-block;
     background-color: #377306;
